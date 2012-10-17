@@ -1,18 +1,18 @@
-#Fri Sep 21 20:14:21 CEST 2012
+#Wed Oct 17 19:23:19 CEST 2012
 SelectDefaultLast=Ignore
 ensureShouldAppearFirstInResource=Ignore
 booleansInStringForm=Ignore
 assignmentToVarNamedString=Warning
 unquotedResourceTitle=Ignore
 dqStringNotRequiredVar=Ignore
-puppetPath=lib/*\:environments/$environment/*\:manifests/*\:modules/*\:roles/$environment/*
+puppetPath=lib/*\:environments/$environment/*\:manifests/*\:modules/*\:roles/$environment/*\:xxx
 CaseDefaultLast=Ignore
 puppetEnvironment=production
 missingDefault=Warning
 circularModuleDependency=Warning
 unbracedInterpolation=Ignore
-rightToLeftRelationships=Ignore
 problemInterpolatedHyphen=Warning
+rightToLeftRelationships=Ignore
+puppetVersion=2.7
 mlComments=Ignore
-puppetVersion=PE 2.0
 dqStringNotRequired=Ignore
