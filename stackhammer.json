@@ -20,13 +20,13 @@
       "name": "production"
     }
   ],
-  "puppetLintEnabled": true,
+  "puppetLintEnabled": false,
   "puppetLintOptions": [
-    "NoArrowAlignmentCheck",
     "NoDuplicateParamsCheck",
+    "NoEnsureFirstParamCheck",
     "NoEnsureNotSymlinkTargetCheck",
-    "NoAutoloaderLayoutCheck",
     "NoEightyCharsCheck",
-    "NoEnsureFirstParamCheck"
+    "NoAutoloaderLayoutCheck",
+    "NoArrowAlignmentCheck"
   ]
 }
