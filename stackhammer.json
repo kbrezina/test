@@ -1,7 +1,7 @@
 {
   "metaVersion": "1.1.6",
   "accessKey": "cloudsmith",
-  "puppetVersion": "PUPPET_ENTERPRISE20",
+  "puppetVersion": "PUPPET27",
   "environments": [
     {
       "siteLocation": "manifests",
