@@ -1,7 +1,13 @@
 {
   "metaVersion": "1.1.6",
   "accessKey": "cloudsmith",
-  "puppetVersion": "PUPPET_ENTERPRISE20",
+  "puppetVersion": "PUPPET26",
+  "master": {
+    "type": "T1_MICRO",
+    "deployState": "RUNNING",
+    "image": "ami-31814f58",
+    "name": "mm"
+  },
   "environments": [
     {
       "siteLocation": "manifests",
